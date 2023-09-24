@@ -1,16 +1,20 @@
 # E-commerce-flask-mysql
-- page dang ki
+- **page dang ki**
 <img src="./images/dangki.png">
 
-- page dang nhap
+
+- **page dang nhap**
 <img src="./images/dangnhap.png">
 
-- page trang chu
+
+- **page trang chu**
   <img src="./images/trangchu.png">
+  
 
-- page xem chi tiet
+- **page xem chi tiet**
   <img src="./images/xemchitiet.png">
+  
 
-- page dat hang
+- **page dat hang**
   <img src="./images/dathang.png">
   
